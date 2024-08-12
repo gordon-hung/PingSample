@@ -39,5 +39,5 @@ It's better to signal to the user that the operation cannot be performed instead
 ### Recommended action
 If a ping payload is necessary, run the application as root, or grant the cap_net_raw capability using the setcap utility.
 
-Otherwise, use an overload of Ping.SendPingAsync that does not accept a custom payload, or pass in an empty array.
+Otherwise, use an overload of `${Ping.SendPingAsync}' that does not accept a custom payload, or pass in an empty array.
 
