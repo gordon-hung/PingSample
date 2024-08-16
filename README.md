@@ -1,5 +1,5 @@
 # network-ping-sample
-ASP.NET Core 8.0 PingSample
+ASP.NET Core 8.0 Ping
 
 Verifies IP-level connectivity to another TCP/IP computer by sending Internet Control Message Protocol (ICMP) echo Request messages. The receipt of the corresponding echo Reply messages is displayed, along with round-trip times. ping is the primary TCP/IP command used to troubleshoot connectivity, reachability, and name resolution. Used without parameters, this command displays Help content.
 
